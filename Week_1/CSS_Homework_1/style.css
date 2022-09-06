@@ -1,0 +1,30 @@
+.menu{
+    list-style: none;
+    display: block;
+}
+
+.menu li{
+    display: inline;
+    padding: 10px;
+    position: relative;
+    
+}
+
+a {
+    color:#533483;
+}
+a:hover {
+    color: #E94560;
+}
+
+.urun {
+    list-style-position: inside;
+    margin: auto;
+}
+.urun p{
+    color: #533483;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
