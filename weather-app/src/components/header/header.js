@@ -1,6 +1,7 @@
 import React from 'react'
 import './header.css'
 import img from '../../assets/github.svg';
+import WeatherContext from '../../context/weatherContext'
 
 function Header() {
   return (

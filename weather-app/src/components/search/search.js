@@ -1,6 +1,6 @@
 import React from 'react'
 import './search.css'
-import svgSearch from '../../assets/search-icon.svg'
+
 
 function Search() {
   return (
